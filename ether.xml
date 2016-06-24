@@ -11,10 +11,6 @@
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
-            <KernelSource
-	        id="kernel_source"
-	        title="Kernel Source Code"
-	        description="View the Kernel Source">https://github.com/deadman96385/android_kernel_nextbit_msm8992</KernelSource>    
             <BanksGappsUrl
             	id="banks_gapps"
             	title="BaNkS Dynamic GApps"

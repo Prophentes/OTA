@@ -18,7 +18,7 @@
 	    <KernelSource
 	        id="kernel_source"
 	        title="Kernel Source Code"
-	        description="View the Kernel Source!">https://github.com/deadman96385/android_kernel_nextbit_msm8992</KernelSource>
+	        description="View the Kernel Source">https://github.com/deadman96385/android_kernel_nextbit_msm8992</KernelSource>
 	</ether>
     </Stable>
 </SlimOTA>

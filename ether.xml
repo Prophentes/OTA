@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <ether>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160824-ether.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20160927-ether.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
